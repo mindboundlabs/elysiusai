@@ -4,7 +4,7 @@
 
 Elysius AI is an innovative project designed to revolutionize quantum computing by creating and leveraging **hybrid theoretical and practical mathematical and scientific equations**. By combining the diverse and groundbreaking ideas of mathematicians and scientists—past and present—Elysius AI provides master prompts to solve some of the most complex problems in quantum computing today.
 
-This initiative is brought to you by **MindBound Labs**—a startup, research lab, and group of companies dedicated to advancing safe Artificial Superintelligence (ASI) through the power of communities. Elysius AI exemplifies MindBound Labs’ mission to democratize knowledge and foster innovation in transformative fields like quantum computing.
+This initiative is brought to you by **MindBound Labs**—a startup/research lab, and group of companies, dedicated to advancing safe Artificial Superintelligence (ASI) through the power of communities. Elysius AI exemplifies MindBound Labs’ mission to democratize knowledge and foster innovation in transformative fields like quantum computing.
 
 ---
 
